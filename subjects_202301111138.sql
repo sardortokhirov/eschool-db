@@ -1,0 +1,10 @@
+INSERT INTO public.subjects (id,change_date,create_date,name,change_user_id,create_user_id,lang_id,state_id) VALUES
+	 ('d3a64e19-2617-4131-b7dc-90fdca4f1228','2022-12-21 12:08:07.936','2022-12-20 08:43:47.514','Matematika','02583f24-7df7-46df-9115-f8d01d1943ff','02583f24-7df7-46df-9115-f8d01d1943ff','a57b050a-a894-473b-b3eb-6aa034b7eacb','dab6dad8-1cc4-4b41-8cee-8417e67e3561'),
+	 ('a8124f8f-393e-432b-9cd5-4c6f11693009',NULL,'2022-10-18 16:34:50.202','Fizika',NULL,'02583f24-7df7-46df-9115-f8d01d1943ff','a57b050a-a894-473b-b3eb-6aa034b7eacb','4fcc12da-527f-49d1-abb3-d83f5e9587f2'),
+	 ('0bd204d9-773f-4edb-b622-00a54fa7d9c2','2022-10-23 10:44:33.309','2022-10-18 16:34:50.202','Matematikaa','317df3fe-0835-49e9-b18e-83d493cbfeaa','02583f24-7df7-46df-9115-f8d01d1943ff','a57b050a-a894-473b-b3eb-6aa034b7eacb','4fcc12da-527f-49d1-abb3-d83f5e9587f2'),
+	 ('93a26b53-d074-4561-9055-46bc9d972cab',NULL,'2022-10-23 14:08:54.279','Adabiyot',NULL,'02583f24-7df7-46df-9115-f8d01d1943ff','a57b050a-a894-473b-b3eb-6aa034b7eacb','4fcc12da-527f-49d1-abb3-d83f5e9587f2'),
+	 ('2d070514-2023-4e37-a1bc-cee4bcac2a94',NULL,'2022-10-23 14:08:54.279','Geografiya',NULL,'02583f24-7df7-46df-9115-f8d01d1943ff','a57b050a-a894-473b-b3eb-6aa034b7eacb','4fcc12da-527f-49d1-abb3-d83f5e9587f2'),
+	 ('e7a359c2-4d6b-4c2f-a3c7-0a4390d7d6c0',NULL,'2022-10-23 14:08:54.279','Ingilis tili',NULL,'02583f24-7df7-46df-9115-f8d01d1943ff','a57b050a-a894-473b-b3eb-6aa034b7eacb','4fcc12da-527f-49d1-abb3-d83f5e9587f2'),
+	 ('8a0b8e11-9809-4276-bdb5-9a36ae283604',NULL,'2022-10-25 09:32:28.974','Algebra',NULL,'02583f24-7df7-46df-9115-f8d01d1943ff','a57b050a-a894-473b-b3eb-6aa034b7eacb','4fcc12da-527f-49d1-abb3-d83f5e9587f2'),
+	 ('dd1be8ed-7306-42ca-8e85-023cdd1c7086',NULL,'2022-10-30 07:13:19.857','Boshlag''ich ta''lim',NULL,'02583f24-7df7-46df-9115-f8d01d1943ff','a57b050a-a894-473b-b3eb-6aa034b7eacb','4fcc12da-527f-49d1-abb3-d83f5e9587f2'),
+	 ('72f95241-e0bd-49e7-9c72-8a84d85d2c1d','2023-01-10 22:51:07.607857','2023-01-10 04:21:35.088','Test','02583f24-7df7-46df-9115-f8d01d1943ff','02583f24-7df7-46df-9115-f8d01d1943ff','a57b050a-a894-473b-b3eb-6aa034b7eacb','dab6dad8-1cc4-4b41-8cee-8417e67e3561');
